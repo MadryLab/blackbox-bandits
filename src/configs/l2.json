@@ -1,0 +1,13 @@
+{
+    "fd_eta": 0.01,
+    "max_queries": 10000,
+    "image_lr": 0.5,
+    "mode": "l2",
+    "online_lr": 0.1,
+    "exploration": 0.01,
+    "epsilon": 5.0,
+    "batch_size": 500,
+    "gradient_iters": 1,
+    "total_images": 10000,
+    "tile_size": 50
+}    
